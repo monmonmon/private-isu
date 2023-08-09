@@ -1,3 +1,5 @@
+private-isu をローカルで docker で動かすためのリポジトリ
+
 # private-isu
 
 「[ISUCON](https://isucon.net)」は、LINE株式会社の商標または登録商標です。
